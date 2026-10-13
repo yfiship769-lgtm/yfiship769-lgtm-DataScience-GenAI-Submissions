@@ -13,4 +13,4 @@ This repository contains my coursework, Python notebooks, and data analysis proj
 - Google Colab and Jupyter Notebook
 
 ## License
-Please refer to the LICENSE file for licensing information.
+This project is licensed under the MIT License.
